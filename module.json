@@ -5,190 +5,230 @@
   "authors": [
     {
       "name": "Ninjo",
-      "discord": "n1nj0",
-      "flags": {}
+      "discord": "n1nj0"
     }
   ],
-  "flags": {},
-  "version": "1.4",
+  "version": "1.5",
   "compatibility": {
     "minimum": "10",
     "verified": "11",
     "maximum": "11"
   },
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
   "packs": [
     {
-      "label": "Spieler Charaktere",
       "name": "actor-gm",
-      "system": "dnd5e",
-      "path": "packs/charaktere.db",
-      "module": "Niclas-Compendia",
+      "label": "Spieler Charaktere",
+      "path": "packs/charaktere",
       "type": "Actor",
-      "private": false
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Bestiarium Deutsch",
       "name": "bestiarium_deutsch",
-      "system": "dnd5e",
-      "path": "packs/bestiarium_deutsch.db",
-      "module": "Niclas-Compendia",
+      "label": "Bestiarium Deutsch",
+      "path": "packs/bestiarium_deutsch",
       "type": "Actor",
-      "private": false
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "NPC",
       "name": "npc",
-      "system": "dnd5e",
-      "path": "packs/npcs.db",
-      "module": "Niclas-Compendia",
+      "label": "NPC",
+      "path": "packs/npcs",
       "type": "Actor",
-      "private": false
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Bestiarium Allgmein",
       "name": "bestiarium_allgemein",
-      "system": "dnd5e",
-      "path": "packs/bestiarium_allgemein.db",
-      "module": "Niclas-Compendia",
+      "label": "Bestiarium Allgmein",
+      "path": "packs/bestiarium_allgemein",
       "type": "Actor",
-      "private": false
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Monsterfaehigkeiten Deutsch",
       "name": "monster-features",
-      "system": "dnd5e",
-      "path": "packs/monsterfahigkeiten_deutsch.db",
-      "module": "Niclas-Compendia",
+      "label": "Monsterfähigkeiten Deutsch",
+      "path": "packs/monsterfahigkeiten_deutsch",
       "type": "Item",
-      "private": false
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Handelsgueter Deutsch",
       "name": "goods",
-      "system": "dnd5e",
-      "path": "packs/handelsguter_deutsch.db",
-      "module": "Niclas-Compendia",
+      "label": "Handelsgüter Deutsch",
+      "path": "packs/handelsguter_deutsch",
       "type": "Item",
-      "private": false
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Items Deutsch",
       "name": "items",
-      "system": "dnd5e",
-      "path": "packs/items_deutsch.db",
-      "module": "Niclas-Compendia",
+      "label": "Items Deutsch",
+      "path": "packs/items_deutsch",
       "type": "Item",
-      "private": false
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Klassen Deutsch",
       "name": "classes",
-      "system": "dnd5e",
-      "path": "packs/klassen_deutsch.db",
-      "module": "Niclas-Compendia",
+      "label": "Klassen Deutsch",
+      "path": "packs/klassen_deutsch",
       "type": "Item",
-      "private": false
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Unterklassen Deutsch",
       "name": "subclasses",
-      "system": "dnd5e",
+      "label": "Unterklassen Deutsch",
       "path": "packs/unterklassen_deutsch",
-      "module": "Niclas-Compendia",
       "type": "Item",
-      "private": false
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Klassenfaehigkeiten Deutsch",
       "name": "feats",
-      "system": "dnd5e",
-      "path": "packs/klassenfahigkeiten_deutsch.db",
-      "module": "Niclas-Compendia",
+      "label": "Klassenfähigkeiten Deutsch",
+      "path": "packs/klassenfahigkeiten_deutsch",
       "type": "Item",
-      "private": false
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Voelker Deutsch",
       "name": "folk",
-      "system": "dnd5e",
-      "path": "packs/voelker_deutsch.db",
-      "module": "Niclas-Compendia",
+      "label": "Völker Deutsch",
+      "path": "packs/voelker_deutsch",
       "type": "Item",
-      "private": false
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Voelker-Faehigkeiten Deutsch",
       "name": "folk-features",
-      "system": "dnd5e",
-      "path": "packs/voelker_faehigkeiten_deutsch.db",
-      "module": "Niclas-Compendia",
+      "label": "Völker-Fähigkeiten Deutsch",
+      "path": "packs/voelker_faehigkeiten_deutsch",
       "type": "Item",
-      "private": false
-    }, 
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
     {
-      "label": "Zauber Deutsch",
       "name": "magic",
-      "system": "dnd5e",
-      "path": "packs/zauber_deutsch.db",
-      "module": "Niclas-Compendia",
+      "label": "Zauber Deutsch",
+      "path": "packs/zauber_deutsch",
       "type": "Item",
-      "private": false
-    },      
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
     {
-      "label": "Notizen",
       "name": "journal",
-      "path": "packs/meine-notizen.db",
-      "module": "Niclas-Compendia",
+      "label": "Journale",
+      "path": "packs/meine-notizen",
       "type": "JournalEntry",
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Buecher Deutsch",
       "name": "books",
-      "path": "packs/meine-Buecher.db",
-      "module": "Niclas-Compendia",
+      "label": "Bücher und Regelwerke Deutsch",
+      "path": "packs/meine-Buecher",
       "type": "JournalEntry",
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Makros",
       "name": "macro",
-      "path": "packs/meine-macro.db",
-      "module": "Niclas-Compendia",
+      "label": "Meine Makros",
+      "path": "packs/meine-macro",
       "type": "Macro",
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Playlists",
       "name": "playlist",
-      "path": "packs/meine-playlisten.db",
-      "module": "Niclas-Compendia",
+      "label": "Playlists",
+      "path": "packs/meine-playlisten",
       "type": "Playlist",
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Rolltabellen Deutsch",
       "name": "rolltable",
-      "path": "packs/rolltable.db",
-      "module": "Niclas-Compendia",
+      "label": "Rolltabellen Deutsch",
+      "path": "packs/rolltable",
       "type": "RollTable",
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Meine Szenen",
       "name": "scene",
-      "path": "packs/meine-szenen.db",
-      "module": "Niclas-Compendia",
+      "label": "Meine Szenen",
+      "path": "packs/meine-szenen",
       "type": "Scene",
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "meine-presets",
+      "label": "Meine Presets",
+      "path": "packs/meine-presets",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
-  "socket": false,
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "manifest": ""
 }
