@@ -223,6 +223,17 @@
       "label": "Meine Presets",
       "path": "packs/meine-presets",
       "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hintergrunde-deutsch",
+      "label": "Hintergründe Deutsch",
+      "path": "packs/hintergrunde-deutsch",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
