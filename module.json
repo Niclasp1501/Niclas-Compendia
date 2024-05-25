@@ -1,0 +1,194 @@
+{
+  "id": "Niclas-Compendia",
+  "title": "Niclas Shared Compendia (V11)",
+  "description": "Ninjo Compendium zum Teilen der Inhalte mit Freunden",
+  "authors": [
+    {
+      "name": "Ninjo",
+      "discord": "n1nj0",
+      "flags": {}
+    }
+  ],
+  "flags": {},
+  "version": "1.4",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11",
+    "maximum": "11"
+  },
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Spieler Charaktere",
+      "name": "actor-gm",
+      "system": "dnd5e",
+      "path": "packs/charaktere.db",
+      "module": "Niclas-Compendia",
+      "type": "Actor",
+      "private": false
+    },
+    {
+      "label": "Bestiarium Deutsch",
+      "name": "bestiarium_deutsch",
+      "system": "dnd5e",
+      "path": "packs/bestiarium_deutsch.db",
+      "module": "Niclas-Compendia",
+      "type": "Actor",
+      "private": false
+    },
+    {
+      "label": "NPC",
+      "name": "npc",
+      "system": "dnd5e",
+      "path": "packs/npcs.db",
+      "module": "Niclas-Compendia",
+      "type": "Actor",
+      "private": false
+    },
+    {
+      "label": "Bestiarium Allgmein",
+      "name": "bestiarium_allgemein",
+      "system": "dnd5e",
+      "path": "packs/bestiarium_allgemein.db",
+      "module": "Niclas-Compendia",
+      "type": "Actor",
+      "private": false
+    },
+    {
+      "label": "Monsterfaehigkeiten Deutsch",
+      "name": "monster-features",
+      "system": "dnd5e",
+      "path": "packs/monsterfahigkeiten_deutsch.db",
+      "module": "Niclas-Compendia",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "label": "Handelsgueter Deutsch",
+      "name": "goods",
+      "system": "dnd5e",
+      "path": "packs/handelsguter_deutsch.db",
+      "module": "Niclas-Compendia",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "label": "Items Deutsch",
+      "name": "items",
+      "system": "dnd5e",
+      "path": "packs/items_deutsch.db",
+      "module": "Niclas-Compendia",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "label": "Klassen Deutsch",
+      "name": "classes",
+      "system": "dnd5e",
+      "path": "packs/klassen_deutsch.db",
+      "module": "Niclas-Compendia",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "label": "Unterklassen Deutsch",
+      "name": "subclasses",
+      "system": "dnd5e",
+      "path": "packs/unterklassen_deutsch",
+      "module": "Niclas-Compendia",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "label": "Klassenfaehigkeiten Deutsch",
+      "name": "feats",
+      "system": "dnd5e",
+      "path": "packs/klassenfahigkeiten_deutsch.db",
+      "module": "Niclas-Compendia",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "label": "Voelker Deutsch",
+      "name": "folk",
+      "system": "dnd5e",
+      "path": "packs/voelker_deutsch.db",
+      "module": "Niclas-Compendia",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "label": "Voelker-Faehigkeiten Deutsch",
+      "name": "folk-features",
+      "system": "dnd5e",
+      "path": "packs/voelker_faehigkeiten_deutsch.db",
+      "module": "Niclas-Compendia",
+      "type": "Item",
+      "private": false
+    }, 
+    {
+      "label": "Zauber Deutsch",
+      "name": "magic",
+      "system": "dnd5e",
+      "path": "packs/zauber_deutsch.db",
+      "module": "Niclas-Compendia",
+      "type": "Item",
+      "private": false
+    },      
+    {
+      "label": "Notizen",
+      "name": "journal",
+      "path": "packs/meine-notizen.db",
+      "module": "Niclas-Compendia",
+      "type": "JournalEntry",
+      "private": false
+    },
+    {
+      "label": "Buecher Deutsch",
+      "name": "books",
+      "path": "packs/meine-Buecher.db",
+      "module": "Niclas-Compendia",
+      "type": "JournalEntry",
+      "private": false
+    },
+    {
+      "label": "Makros",
+      "name": "macro",
+      "path": "packs/meine-macro.db",
+      "module": "Niclas-Compendia",
+      "type": "Macro",
+      "private": false
+    },
+    {
+      "label": "Playlists",
+      "name": "playlist",
+      "path": "packs/meine-playlisten.db",
+      "module": "Niclas-Compendia",
+      "type": "Playlist",
+      "private": false
+    },
+    {
+      "label": "Rolltabellen Deutsch",
+      "name": "rolltable",
+      "path": "packs/rolltable.db",
+      "module": "Niclas-Compendia",
+      "type": "RollTable",
+      "private": false
+    },
+    {
+      "label": "Meine Szenen",
+      "name": "scene",
+      "path": "packs/meine-szenen.db",
+      "module": "Niclas-Compendia",
+      "type": "Scene",
+      "private": false
+    }
+  ],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
