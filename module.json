@@ -12,7 +12,7 @@
   "version": "1.5",
   "compatibility": {
     "minimum": "10",
-    "verified": "11",
+    "verified": "12",
     "maximum": "12"
   },
   "packs": [
@@ -242,7 +242,6 @@
       }
     }
   ],
-  "manifest": "https://github.com/Niclasp1501/releases/download/latest/module.json",
-  "url": "https://github.com/Niclasp1501/Niclas-Compendia",
-  "download": "https://github.com/Niclasp1501/releases/download/latest/module.zip"
+  "manifest": "",
+  "url": "https://github.com/Niclasp1501/Niclas-Compendia"
 }
