@@ -242,6 +242,8 @@
       }
     }
   ],
-  "manifest": "",
-  "url": "https://github.com/Niclasp1501/Niclas-Compendia"
+  "url": "https://github.com/Niclasp1501/Niclas-Compendia",
+  "manifest": "https://github.com/Niclasp1501/Niclas-Compendia/releases/download/latest/module.json",
+  "download": "https://github.com/Niclasp1501/Niclas-Compendia/releases/download/latest/module.zip"
+
 }
