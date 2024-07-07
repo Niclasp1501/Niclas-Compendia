@@ -1,0 +1,8 @@
+2024/07/06-12:11:26.748053 73f0b97bd640 Recovering log #192
+2024/07/06-12:11:26.756155 73f0b97bd640 Delete type=0 #192
+2024/07/06-12:11:26.756210 73f0b97bd640 Delete type=3 #191
+2024/07/07-18:31:40.090282 73eb9a7ff640 Level-0 table #196: started
+2024/07/07-18:31:40.094260 73eb9a7ff640 Level-0 table #196: 0 bytes OK
+2024/07/07-18:31:40.097687 73eb9a7ff640 Delete type=0 #194
+2024/07/07-18:31:40.102713 73eb9a7ff640 Manual compaction at level-0 from '!items!ZOS272EMPcVopr5m' @ 72057594037927935 : 1 .. '!items!ZOS272EMPcVopr5m' @ 0 : 0; will stop at (end)
+2024/07/07-18:31:40.102864 73eb9a7ff640 Manual compaction at level-1 from '!items!ZOS272EMPcVopr5m' @ 72057594037927935 : 1 .. '!items!ZOS272EMPcVopr5m' @ 0 : 0; will stop at (end)

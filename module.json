@@ -1,18 +1,19 @@
 {
   "id": "Niclas-Compendia",
-  "title": "Niclas Shared Compendia (V11)",
+  "title": "Niclas Shared Compendia (V12)",
   "description": "Ninjo Compendium zum Teilen der Inhalte mit Freunden",
   "authors": [
     {
       "name": "Ninjo",
-      "discord": "n1nj0"
+      "discord": "n1nj0",
+      "flags": {}
     }
   ],
   "version": "1.5",
   "compatibility": {
     "minimum": "10",
     "verified": "11",
-    "maximum": "11"
+    "maximum": "12"
   },
   "packs": [
     {
@@ -234,12 +235,14 @@
       "label": "Hintergründe Deutsch",
       "path": "packs/hintergrunde-deutsch",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
-  "manifest": ""
+  "manifest": "https://github.com/Niclasp1501/releases/download/latest/module.json",
+  "url": "https://github.com/Niclasp1501/Niclas-Compendia",
+  "download": "https://github.com/Niclasp1501/releases/download/latest/module.zip"
 }
